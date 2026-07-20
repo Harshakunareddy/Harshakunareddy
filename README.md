@@ -64,15 +64,15 @@ Full Stack Software Engineer from India 🇮🇳
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
+## 📊 GitHub Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
 
-</p>
+</p> -->
 
 
 
