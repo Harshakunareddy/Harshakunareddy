@@ -8,7 +8,7 @@ Full Stack Software Engineer from India 🇮🇳
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Laravel+Developer;Node.js+Backend+Developer;React.js+Frontend+Developer;AWS+Cloud+Deployment;Full+Stack+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Node.js+Backend+Developer;React.js+Frontend+Developer;Laravel+Developer;AWS+Cloud+Deployment;Full+Stack+Software+Engineer" />
 
 </p>
 
@@ -18,13 +18,13 @@ Full Stack Software Engineer from India 🇮🇳
 
 - 💼 Full Stack Software Engineer
 
-- 💻 20 Months Professional Experience
+- 💻 1.8 Years of  Professional Experience
 
 - 🚀 Working on Production Applications
 
 - 🌱 Learning Docker, Kubernetes & System Design
 
-- ❤️ Passionate about Backend Development
+- ❤️ Passionate about Software Development
 
 ---
 
@@ -32,7 +32,7 @@ Full Stack Software Engineer from India 🇮🇳
 
 <p>
 
-<a href="YOUR LINKEDIN">
+<a href="https://www.linkedin.com/in/harsha-vardhan-63b0b61bb">
 
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 
@@ -44,11 +44,11 @@ Full Stack Software Engineer from India 🇮🇳
 
 </a>
 
-<a href="YOUR LEETCODE">
+<!-- <a href="YOUR LEETCODE"> -->
 
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+<!-- <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/> -->
 
-</a>
+<!-- </a> -->
 
 </p>
 
@@ -74,25 +74,23 @@ Full Stack Software Engineer from India 🇮🇳
 
 </p>
 
----
 
+
+<!-- <p align="center">
 ## 🔥 GitHub Streak
-
-<p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
 
-</p>
+</p> -->
 
----
 
+
+<!-- <p align="center">
 ## 🏆 GitHub Trophy
 
-<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=algolia&row=1"/> -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=algolia&row=1"/>
-
-</p>
+<!-- </p> -->
 
 ---
 
