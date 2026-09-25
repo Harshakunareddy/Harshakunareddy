@@ -18,7 +18,7 @@ Full Stack Software Engineer from India 🇮🇳
 
 - 💼 Full Stack Software Engineer
 
-- 💻 1.8 Years of  Professional Experience
+- 💻 2+ years of  Professional Experience
 
 - 🚀 Working on Production Applications
 
