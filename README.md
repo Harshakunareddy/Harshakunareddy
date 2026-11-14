@@ -38,19 +38,7 @@ I am a full-stack product engineer from India 🇮🇳 with ~2.5 years of produc
 
 ---
 
-### Shipped Production Platforms 🚀
 
-🚖 [**PoolPal**](https://www.poolpal.in/) — Real-time ride-booking & carpooling backend on AWS handling live GPS tracking, dynamic fare calculation, and payments for **3000+ drivers and 1500+ users**.
-
-🛒 [**ZestFindz**](https://www.zestfindz.com/) — Multi-vendor e-commerce platform with automated logistics (Delhivery API), payment gateways, and an OpenAI customer support bot. Onboarded **50+ active vendors**.
-
-🥦 [**Zenfoo**](https://www.zenfoo.store/) — Hyperlocal quick-commerce grocery delivery with real-time inventory sync, slot scheduling, and live courier tracking for **100+ registered vendors**.
-
-🩺 [**TrustLabs**](https://www.mytrustlab.com/) — Healthcare diagnostics platform featuring online test bookings, home sample collection, time-slot scheduling, and automated report downloads.
-
-🔧 **MyGarage** — Multi-tenant garage management SaaS with role-based access control and recurring Razorpay subscription plans. Built with Laravel, MySQL & React.js.
-
----
 <p align="center">
   <a href="https://drive.google.com/file/d/1rkxC0SC13YlMGXAHw5YN2Aohv55wTXXy/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume-555?style=flat&logo=googledrive&logoColor=white" alt="Resume" />
@@ -68,3 +56,17 @@ I am a full-stack product engineer from India 🇮🇳 with ~2.5 years of produc
     <img src="https://img.shields.io/badge/Email-555?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+---
+
+### Shipped Production Platforms 🚀
+
+🚖 [**PoolPal**](https://www.poolpal.in/) — Real-time ride-booking & carpooling backend on AWS handling live GPS tracking, dynamic fare calculation, and payments for **3000+ drivers and 1500+ users**.
+
+🛒 [**ZestFindz**](https://www.zestfindz.com/) — Multi-vendor e-commerce platform with automated logistics (Delhivery API), payment gateways, and an OpenAI customer support bot. Onboarded **50+ active vendors**.
+
+🥦 [**Zenfoo**](https://www.zenfoo.store/) — Hyperlocal quick-commerce grocery delivery with real-time inventory sync, slot scheduling, and live courier tracking for **100+ registered vendors**.
+
+🩺 [**TrustLabs**](https://www.mytrustlab.com/) — Healthcare diagnostics platform featuring online test bookings, home sample collection, time-slot scheduling, and automated report downloads.
+
+🔧 **MyGarage** — Multi-tenant garage management SaaS with role-based access control and recurring Razorpay subscription plans. Built with Laravel, MySQL & React.js.
