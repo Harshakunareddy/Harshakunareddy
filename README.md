@@ -51,13 +51,20 @@ I am a full-stack product engineer from India 🇮🇳 with ~2.5 years of produc
 🔧 **MyGarage** — Multi-tenant garage management SaaS with role-based access control and recurring Razorpay subscription plans. Built with Laravel, MySQL & React.js.
 
 ---
-
 <p align="center">
-  <a href="https://drive.google.com/file/d/1rkxC0SC13YlMGXAHw5YN2Aohv55wTXXy/view?usp=drive_link" target="_blank" title="Resume" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Resume" width="30" height="30"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/harsha-vardhan-63b0b61bb/" target="_blank" title="LinkedIn" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="30" height="30"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://harshakunareddy.onrender.com/" target="_blank" title="Portfolio" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" alt="Portfolio" width="30" height="30"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:kunareddyharshareddy@gmail.com" target="_blank" title="Email" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="30" height="30"/></a>
+  <a href="https://drive.google.com/file/d/1rkxC0SC13YlMGXAHw5YN2Aohv55wTXXy/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-555?style=flat&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/harsha-vardhan-63b0b61bb/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-555?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://harshakunareddy.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-555?style=flat&logo=safari&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:kunareddyharshareddy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-555?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
