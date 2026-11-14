@@ -2,54 +2,62 @@
 
 I am a full-stack product engineer from India 🇮🇳 with ~2.5 years of production experience designing, building, and deploying scalable web and mobile platforms end-to-end.
 
-<p align="left">
-  <a href="https://drive.google.com/file/d/1rkxC0SC13YlMGXAHw5YN2Aohv55wTXXy/view?usp=drive_link" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/📄_View_Resume-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
-  </a>&nbsp;
-  <a href="https://harshakunareddy.onrender.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/harsha-vardhan-63b0b61bb/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+---
 
 ### Currently I am working with ...
 
-<a href="https://nodejs.org/" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="20" height="20"/></a>&nbsp;&nbsp;
-<a href="https://react.dev/" target="_blank" title="ReactJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="20" height="20"/></a>&nbsp;&nbsp;
-<a href="https://nextjs.org/" target="_blank" title="Next.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="20" height="20"/></a>&nbsp;&nbsp;
-<a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="20" height="20"/></a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="20" height="20"/></a>&nbsp;&nbsp;
-<a href="https://laravel.com/" target="_blank" title="Laravel" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="20" height="20"/></a>&nbsp;&nbsp;
-<a href="https://www.php.net/" target="_blank" title="PHP" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="20" height="20"/></a>&nbsp;&nbsp;
-<a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="20" height="20"/></a>&nbsp;&nbsp;
-<a href="https://www.mysql.com/" target="_blank" title="MySQL" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="55" height="20"/></a>&nbsp;&nbsp;
-<a href="https://www.mongodb.com/" target="_blank" title="MongoDB" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="20" height="20"/></a>&nbsp;&nbsp;
-<a href="https://git-scm.com/" target="_blank" title="Git" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="20" height="20"/></a>&nbsp;&nbsp;
-<a href="https://github.com/Harshakunareddy" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="20" height="20"/></a>&nbsp;&nbsp;
+<a href="https://nodejs.org/" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="25" height="25"/></a>&nbsp;&nbsp;
+<a href="https://react.dev/" target="_blank" title="ReactJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="25" height="25"/></a>&nbsp;&nbsp;
+<a href="https://nextjs.org/" target="_blank" title="Next.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="25" height="25"/></a>&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="25" height="25"/></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="25" height="25"/></a>&nbsp;&nbsp;
+<a href="https://laravel.com/" target="_blank" title="Laravel" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="25" height="25"/></a>&nbsp;&nbsp;
+<a href="https://www.php.net/" target="_blank" title="PHP" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="25" height="25"/></a>&nbsp;&nbsp;
+<a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="25" height="25"/></a>&nbsp;&nbsp;
+<a href="https://www.mysql.com/" target="_blank" title="MySQL" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="50" height="25"/></a>&nbsp;&nbsp;
+<a href="https://www.mongodb.com/" target="_blank" title="MongoDB" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="25" height="25"/></a>&nbsp;&nbsp;
+<a href="https://git-scm.com/" target="_blank" title="Git" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="25" height="25"/></a>&nbsp;&nbsp;
+<a href="https://github.com/Harshakunareddy" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="25" height="25"/></a>&nbsp;&nbsp;
 
 ### I have also worked with ...
 
-<a href="https://www.python.org/" target="_blank" title="Python" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="20" height="20"/></a>&nbsp;&nbsp;
-<a href="https://www.djangoproject.com/" target="_blank" title="Django" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="20" height="20"/></a>&nbsp;&nbsp;
-<a href="https://flutter.dev/" target="_blank" title="Flutter" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="20" height="20"/></a>&nbsp;&nbsp;
-<a href="https://kotlinlang.org/" target="_blank" title="Kotlin" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="20" height="20"/></a>&nbsp;&nbsp;
-<a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="20" height="20"/></a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="20" height="20"/></a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="20" height="20"/></a>&nbsp;&nbsp;
-<a href="https://redis.io/" target="_blank" title="Redis" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="20" height="20"/></a>&nbsp;&nbsp;
-<a href="https://firebase.google.com/" target="_blank" title="Firebase" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="20" height="20"/></a>&nbsp;&nbsp;
-<a href="https://socket.io/" target="_blank" title="Socket.IO" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="Socket.IO" width="20" height="20"/></a>&nbsp;&nbsp;
-<a href="https://aws.amazon.com/" target="_blank" title="Amazon Web Services" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="20" height="20"/></a>&nbsp;&nbsp;
-<a href="https://www.docker.com/" target="_blank" title="Docker" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="20" height="20"/></a>&nbsp;&nbsp;
-<a href="https://nginx.org/" target="_blank" title="Nginx" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="20" height="20"/></a>&nbsp;&nbsp;
-<a href="https://www.postman.com/" target="_blank" title="Postman" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="20" height="20"/></a>&nbsp;&nbsp;
+<a href="https://www.python.org/" target="_blank" title="Python" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="25" height="25"/></a>&nbsp;&nbsp;
+<a href="https://www.djangoproject.com/" target="_blank" title="Django" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="25" height="25"/></a>&nbsp;&nbsp;
+<a href="https://flutter.dev/" target="_blank" title="Flutter" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="25" height="25"/></a>&nbsp;&nbsp;
+<a href="https://kotlinlang.org/" target="_blank" title="Kotlin" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="25" height="25"/></a>&nbsp;&nbsp;
+<a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="25" height="25"/></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="25" height="25"/></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="25" height="25"/></a>&nbsp;&nbsp;
+<a href="https://redis.io/" target="_blank" title="Redis" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="25" height="25"/></a>&nbsp;&nbsp;
+<a href="https://firebase.google.com/" target="_blank" title="Firebase" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="25" height="25"/></a>&nbsp;&nbsp;
+<a href="https://socket.io/" target="_blank" title="Socket.IO" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="Socket.IO" width="25" height="25"/></a>&nbsp;&nbsp;
+<a href="https://aws.amazon.com/" target="_blank" title="Amazon Web Services" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="25" height="25"/></a>&nbsp;&nbsp;
+<a href="https://www.docker.com/" target="_blank" title="Docker" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="25" height="25"/></a>&nbsp;&nbsp;
+<a href="https://nginx.org/" target="_blank" title="Nginx" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="25" height="25"/></a>&nbsp;&nbsp;
+<a href="https://www.postman.com/" target="_blank" title="Postman" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="25" height="25"/></a>&nbsp;&nbsp;
+
+---
 
 ### Shipped Production Platforms 🚀
 
-- 🚖 [**PoolPal**](https://www.poolpal.in/) — Real-time ride-booking & carpooling backend on AWS handling live GPS tracking, dynamic fare calculation, and payments for **3000+ drivers and 1500+ users**.
-- 🛒 [**ZestFindz**](https://www.zestfindz.com/) — Multi-vendor e-commerce platform with automated logistics (Delhivery API), payment gateways, and an OpenAI customer support bot. Onboarded **50+ active vendors**.
-- 🥦 [**Zenfoo**](https://www.zenfoo.store/) — Hyperlocal quick-commerce grocery delivery with real-time inventory sync, slot scheduling, and live courier tracking for **100+ registered vendors**.
-- 🩺 [**TrustLabs**](https://www.mytrustlab.com/) — Healthcare diagnostics platform featuring online test bookings, home sample collection, time-slot scheduling, and automated report downloads.
-- 🔧 **MyGarage** — Multi-tenant garage management SaaS with role-based access control and recurring Razorpay subscription plans. Built with Laravel, MySQL & React.js.
+🚖 [**PoolPal**](https://www.poolpal.in/) — Real-time ride-booking & carpooling backend on AWS handling live GPS tracking, dynamic fare calculation, and payments for **3000+ drivers and 1500+ users**.
+
+🛒 [**ZestFindz**](https://www.zestfindz.com/) — Multi-vendor e-commerce platform with automated logistics (Delhivery API), payment gateways, and an OpenAI customer support bot. Onboarded **50+ active vendors**.
+
+🥦 [**Zenfoo**](https://www.zenfoo.store/) — Hyperlocal quick-commerce grocery delivery with real-time inventory sync, slot scheduling, and live courier tracking for **100+ registered vendors**.
+
+🩺 [**TrustLabs**](https://www.mytrustlab.com/) — Healthcare diagnostics platform featuring online test bookings, home sample collection, time-slot scheduling, and automated report downloads.
+
+🔧 **MyGarage** — Multi-tenant garage management SaaS with role-based access control and recurring Razorpay subscription plans. Built with Laravel, MySQL & React.js.
+
+---
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1rkxC0SC13YlMGXAHw5YN2Aohv55wTXXy/view?usp=drive_link" target="_blank" title="Resume" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Resume" width="30" height="30"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/harsha-vardhan-63b0b61bb/" target="_blank" title="LinkedIn" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="30" height="30"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://harshakunareddy.onrender.com/" target="_blank" title="Portfolio" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" alt="Portfolio" width="30" height="30"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:kunareddyharshareddy@gmail.com" target="_blank" title="Email" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="30" height="30"/></a>
+</p>
