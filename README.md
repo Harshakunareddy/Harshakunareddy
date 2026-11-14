@@ -36,7 +36,7 @@ I am a full-stack product engineer from India 🇮🇳 with ~2.5 years of produc
 
 ### Shipped Production Platforms 🚀
 
-- 🚖 [**PoolPal**](https://www.poolpal.in/) — Real-time ride-booking & carpooling backend on AWS handling live GPS tracking, dynamic fare calculation, and payments for **1,400+ drivers and 600+ users**.
+- 🚖 [**PoolPal**](https://www.poolpal.in/) — Real-time ride-booking & carpooling backend on AWS handling live GPS tracking, dynamic fare calculation, and payments for **3000+ drivers and 1500+ users**.
 
 - 🛒 [**ZestFindz**](https://www.zestfindz.com/) — Multi-vendor e-commerce platform with automated logistics (Delhivery API), payment gateways, and an OpenAI customer support bot. Onboarded **50+ active vendors**.
 
