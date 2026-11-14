@@ -37,20 +37,13 @@ I am a full-stack product engineer from India 🇮🇳 with ~2.5 years of produc
 ### Shipped Production Platforms 🚀
 
 - 🚖 [**PoolPal**](https://www.poolpal.in/) — Real-time ride-booking & carpooling backend on AWS handling live GPS tracking, dynamic fare calculation, and payments for **1,400+ drivers and 600+ users**.
+
 - 🛒 [**ZestFindz**](https://www.zestfindz.com/) — Multi-vendor e-commerce platform with automated logistics (Delhivery API), payment gateways, and an OpenAI customer support bot. Onboarded **50+ active vendors**.
+
 - 🥦 [**Zenfoo**](https://www.zenfoo.store/) — Hyperlocal quick-commerce grocery delivery with real-time inventory sync, slot scheduling, and live courier tracking for **100+ registered vendors**.
+
 - 🩺 [**TrustLabs**](https://www.mytrustlab.com/) — Healthcare diagnostics platform featuring online test bookings, home sample collection, time-slot scheduling, and automated report downloads.
+
 - 🔧 **MyGarage** — Multi-tenant garage management SaaS with role-based access control and recurring Razorpay subscription plans. Built with Laravel, MySQL & React.js.
 
-### You can also find me here ...
 
-<a href="https://www.linkedin.com/in/harsha-vardhan-63b0b61bb/" target="_blank" title="LinkedIn" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="https://harshakunareddy.onrender.com/" target="_blank" title="Live Portfolio" rel="noreferrer"><img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="30"/></a>&nbsp;&nbsp;
-<a href="mailto:kunareddyharshareddy@gmail.com" target="_blank" title="Email" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="https://www.freecodecamp.org/certification/fcc44c9459f-c5d5-468b-8fc0-446fcfe4f26b/responsive-web-design" target="_blank" title="freeCodeCamp Certification" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/freecodecamp/freecodecamp-icon.svg" alt="freeCodeCamp" width="30" height="30"/></a>
-
----
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Harshakunareddy&style=flat-square&color=black" alt="Profile Views" />
-</p>
