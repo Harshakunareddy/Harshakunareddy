@@ -1,23 +1,4 @@
-## Hello 👋 I'm Harsha Vardhan 👨🏻‍💻
-
-<p align="center">
-  <a href="PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-%23121011?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/harsha-vardhan-63b0b61bb/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%23121011?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://harshakunareddy.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23121011?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:kunareddyharshareddy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23121011?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
-  </a>
-</p>
-
+## Hello 👋 I'm Harsha Vardhan Reddy
 
 I am a full-stack product engineer from India 🇮🇳 with ~2.5 years of production experience designing, building, and deploying scalable web and mobile platforms end-to-end.
 
